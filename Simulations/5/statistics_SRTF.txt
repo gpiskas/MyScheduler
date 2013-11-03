@@ -1,0 +1,10 @@
+# Date: Wed Jan 09 21:23:48 EET 2013
+Ticks Needed: 27
+
+Total Number Of Processes: 6
+Maximum Ready List Entries: 3
+
+Total Waiting Time: 33
+Average Waiting Time: 5.5
+Average Response Time: 5.5
+Average Turnaround Time: 10.0
