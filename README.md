@@ -1,6 +1,6 @@
 MyScheduler
 =============================
-This is a simple linux shell that supports a couple main operations.
+Simulation of the SJF and SRTF CPU scheduling algorithms, implemented using Java.
 
 Simulations and statistics can be found in the relevant folder.
 
